@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Winium.StoreApps.InnerServer</id>
+    <version>1.7.1</version>
+    <authors>2GIS</authors>
+    <owners>2GIS</owners>
+    <projectUrl>https://github.com/2gis/Winium.StoreApps</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Essential part of Winium.Mobile (Selenium Remote WebDriver implementation) that should be included in tested app to enable automation.</description>
+    <releaseNotes>
+		See https://github.com/2gis/Winium.StoreApps/releases
+    </releaseNotes>
+    <copyright>Copyright ©  2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>
